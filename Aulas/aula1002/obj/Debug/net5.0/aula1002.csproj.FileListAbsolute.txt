@@ -1,0 +1,16 @@
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\bin\Debug\net5.0\aula1002.exe
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\bin\Debug\net5.0\aula1002.deps.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\bin\Debug\net5.0\aula1002.runtimeconfig.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\bin\Debug\net5.0\aula1002.runtimeconfig.dev.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\bin\Debug\net5.0\aula1002.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\bin\Debug\net5.0\ref\aula1002.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\bin\Debug\net5.0\aula1002.pdb
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\obj\Debug\net5.0\aula1002.csprojAssemblyReference.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\obj\Debug\net5.0\aula1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\obj\Debug\net5.0\aula1002.AssemblyInfoInputs.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\obj\Debug\net5.0\aula1002.AssemblyInfo.cs
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\obj\Debug\net5.0\aula1002.csproj.CoreCompileInputs.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\obj\Debug\net5.0\aula1002.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\obj\Debug\net5.0\ref\aula1002.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\obj\Debug\net5.0\aula1002.pdb
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aula1002\obj\Debug\net5.0\aula1002.genruntimeconfig.cache

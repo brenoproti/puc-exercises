@@ -1,0 +1,16 @@
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\bin\Debug\net5.0\aitividade01.exe
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\bin\Debug\net5.0\aitividade01.deps.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\bin\Debug\net5.0\aitividade01.runtimeconfig.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\bin\Debug\net5.0\aitividade01.runtimeconfig.dev.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\bin\Debug\net5.0\aitividade01.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\bin\Debug\net5.0\ref\aitividade01.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\bin\Debug\net5.0\aitividade01.pdb
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\obj\Debug\net5.0\aitividade01.csprojAssemblyReference.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\obj\Debug\net5.0\aitividade01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\obj\Debug\net5.0\aitividade01.AssemblyInfoInputs.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\obj\Debug\net5.0\aitividade01.AssemblyInfo.cs
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\obj\Debug\net5.0\aitividade01.csproj.CoreCompileInputs.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\obj\Debug\net5.0\aitividade01.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\obj\Debug\net5.0\ref\aitividade01.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\obj\Debug\net5.0\aitividade01.pdb
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\aitividade01\obj\Debug\net5.0\aitividade01.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\obj\Debug\net5.0\atividade02.csprojAssemblyReference.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\obj\Debug\net5.0\atividade02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\obj\Debug\net5.0\atividade02.AssemblyInfoInputs.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\obj\Debug\net5.0\atividade02.AssemblyInfo.cs
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\obj\Debug\net5.0\atividade02.csproj.CoreCompileInputs.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\bin\Debug\net5.0\atividade02.exe
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\bin\Debug\net5.0\atividade02.deps.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\bin\Debug\net5.0\atividade02.runtimeconfig.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\bin\Debug\net5.0\atividade02.runtimeconfig.dev.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\bin\Debug\net5.0\atividade02.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\bin\Debug\net5.0\ref\atividade02.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\bin\Debug\net5.0\atividade02.pdb
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\obj\Debug\net5.0\atividade02.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\obj\Debug\net5.0\ref\atividade02.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\obj\Debug\net5.0\atividade02.pdb
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\atividade02\obj\Debug\net5.0\atividade02.genruntimeconfig.cache

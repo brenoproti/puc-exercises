@@ -1,0 +1,16 @@
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\bin\Debug\net5.0\conversortemp.exe
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\bin\Debug\net5.0\conversortemp.deps.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\bin\Debug\net5.0\conversortemp.runtimeconfig.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\bin\Debug\net5.0\conversortemp.runtimeconfig.dev.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\bin\Debug\net5.0\conversortemp.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\bin\Debug\net5.0\ref\conversortemp.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\bin\Debug\net5.0\conversortemp.pdb
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\obj\Debug\net5.0\conversortemp.csprojAssemblyReference.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\obj\Debug\net5.0\conversortemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\obj\Debug\net5.0\conversortemp.AssemblyInfoInputs.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\obj\Debug\net5.0\conversortemp.AssemblyInfo.cs
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\obj\Debug\net5.0\conversortemp.csproj.CoreCompileInputs.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\obj\Debug\net5.0\conversortemp.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\obj\Debug\net5.0\ref\conversortemp.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\obj\Debug\net5.0\conversortemp.pdb
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\conversortemp\obj\Debug\net5.0\conversortemp.genruntimeconfig.cache
