@@ -1,12 +1,13 @@
-﻿using System;
+﻿/**
+*
+* @author BrenoProti
+*
+*/
+
+using System;
 
 namespace atividade01
 {
-    /**
-    *
-    * @author BrenoProti
-    *
-    */
     class Program
     {
         static void Main(string[] args)
