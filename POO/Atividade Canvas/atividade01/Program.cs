@@ -2,6 +2,11 @@
 
 namespace atividade01
 {
+    /**
+    *
+    * @author BrenoProti
+    *
+    */
     class Program
     {
         static void Main(string[] args)
@@ -51,11 +56,17 @@ namespace atividade01
         }
 
         public void  setSalarioHora(double salario) {
-            salarioHora = salario;
+            if(salario < 0)
+                salarioHora = 0;
+            else
+                salarioHora = salario;
         }
 
         public void setHrsTrabalhadas(int horas) {
-            hrsTrabalhadas = horas;
+            if (horas < 0)
+                hrsTrabalhadas = 0;
+            else
+                hrsTrabalhadas = horas;
         }
 
         public void setSalario(double salario, int hora) {
