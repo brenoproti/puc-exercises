@@ -1,0 +1,16 @@
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\bin\Debug\net5.0\aula1802.exe
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\bin\Debug\net5.0\aula1802.deps.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\bin\Debug\net5.0\aula1802.runtimeconfig.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\bin\Debug\net5.0\aula1802.runtimeconfig.dev.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\bin\Debug\net5.0\aula1802.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\bin\Debug\net5.0\ref\aula1802.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\bin\Debug\net5.0\aula1802.pdb
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\obj\Debug\net5.0\aula1802.csprojAssemblyReference.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\obj\Debug\net5.0\aula1802.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\obj\Debug\net5.0\aula1802.AssemblyInfoInputs.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\obj\Debug\net5.0\aula1802.AssemblyInfo.cs
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\obj\Debug\net5.0\aula1802.csproj.CoreCompileInputs.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\obj\Debug\net5.0\aula1802.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\obj\Debug\net5.0\ref\aula1802.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\obj\Debug\net5.0\aula1802.pdb
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Aulas\aula1802\obj\Debug\net5.0\aula1802.genruntimeconfig.cache
