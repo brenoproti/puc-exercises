@@ -1,0 +1,16 @@
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\bin\Debug\net5.0\atividade03.exe
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\bin\Debug\net5.0\atividade03.deps.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\bin\Debug\net5.0\atividade03.runtimeconfig.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\bin\Debug\net5.0\atividade03.runtimeconfig.dev.json
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\bin\Debug\net5.0\atividade03.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\bin\Debug\net5.0\ref\atividade03.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\bin\Debug\net5.0\atividade03.pdb
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\obj\Debug\net5.0\atividade03.csprojAssemblyReference.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\obj\Debug\net5.0\atividade03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\obj\Debug\net5.0\atividade03.AssemblyInfoInputs.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\obj\Debug\net5.0\atividade03.AssemblyInfo.cs
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\obj\Debug\net5.0\atividade03.csproj.CoreCompileInputs.cache
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\obj\Debug\net5.0\atividade03.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\obj\Debug\net5.0\ref\atividade03.dll
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\obj\Debug\net5.0\atividade03.pdb
+C:\Users\morei\Desktop\Estudo\Puc\POO\c#\puc-exercises\POO\Atividade Canvas\atividade03\obj\Debug\net5.0\atividade03.genruntimeconfig.cache
